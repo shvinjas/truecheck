@@ -1,1 +1,1 @@
-# truecheck
+# truecheck-TO CHECK THE ENTERES VALUE IS INTEGER
